@@ -1,0 +1,32 @@
+.unterschriftColor {
+  margin: auto;
+  display: block;
+  text-align: center;
+  background-color: aquamarine;
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(250, 253, 34);
+}
+body {
+  background-color: beige;
+}
+
+h2,
+p {
+  color: rgb(6, 78, 6);
+}
+h1 {
+  color: rgb(143, 19, 19);
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+img {
+  width: 800px;
+  height: 280px;
+  border-style: solid;
+  border-width: 20px;
+  border-color: rgb(250, 253, 34);
+}
+hr {
+  color: rgb(27, 185, 13);
+}
