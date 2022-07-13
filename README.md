@@ -19,3 +19,12 @@ OUR LIVES FOR THE QUEEN!
    (\\         BZZ BZZZ BZZZZZZ~~~
 ```   
 
+
+
+
+```css
+h1 {
+color: yellow;
+}
+```
+
