@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(241, 215, 180);
+}
+
+h1 {
+  text-align: center;
+  color: rgba(73, 87, 77, 0.938);
+}
+
+p {
+  color: rgba(73, 87, 77, 0.938);
+}
+
+li {
+  text-align: center;
+  color: rgba(73, 87, 77, 0.938);
+}
