@@ -1,0 +1,36 @@
+body {
+    background-color:black;
+    color: white;
+    font-family: sans-serif;
+    line-height: 180%;
+    font-size: 1em;
+    text-align: center;
+}
+
+h1, h2 {
+    color: yellow;
+}
+
+div {
+    margin: 50px;
+    width: 600px;
+}
+
+#bees {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: lightgreen;
+    font-weight: bold;
+}
+
+a:active {
+    color: yellow;
+    font-size: 1.2em;
+}
