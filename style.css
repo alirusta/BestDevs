@@ -34,7 +34,6 @@ a {
   align-content: space-evenly;
   font-size: 30px;
   margin-top: 10em;
-  /* height: 100%; */
+
   flex-wrap: wrap;
-  /* border: solid darkgreen; */
 }
