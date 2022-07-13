@@ -8,7 +8,7 @@ a {
   text-decoration: none;
   list-style: none;
   color: black;
-  /* padding-right: 30px; */
+  font-weight: bold;
 }
 #header a:hover {
   color: darkgreen;
