@@ -1,17 +1,16 @@
 body {
   background-color: rgb(241, 215, 180);
-}
-
-h1 {
   text-align: center;
-  color: rgba(73, 87, 77, 0.938);
-}
-
-p {
+  font-size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
   color: rgba(73, 87, 77, 0.938);
 }
 
 li {
   text-align: center;
+}
+
+a {
+  text-decoration: none;
   color: rgba(73, 87, 77, 0.938);
 }
